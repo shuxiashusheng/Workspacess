@@ -1,0 +1,9 @@
+package com.tz.Person;
+
+public interface PeopleAction {
+
+	void speak(String words);
+	void eatFoot(String food);
+	void setAge(int age);
+	
+}
