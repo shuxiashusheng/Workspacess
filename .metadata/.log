@@ -3382,3 +3382,6 @@ org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
 	at java.lang.ClassLoader.loadClassInternal(ClassLoader.java:320)
 	at org.eclipse.wst.jsdt.internal.core.JavaModelManager$15.run(JavaModelManager.java:4182)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-08-18 18:08:32.754
+!MESSAGE Unable to update index for central|http://repo1.maven.org/maven2: C:\Users\Administrator\.m2\repository\.cache\m2e\1.0.0\d9d714e11cb097b3ffcec91cccc65d3e\nexus-maven-repository-index.zip (系统找不到指定的文件。)
